@@ -1,10 +1,10 @@
 # No-Exif
-	Removes Exif Data from Images
+Removes Exif Data from Images
 
 
 ## NoExif
-	It is a command line program which can remove exif data from images.
-	Currently, image types such as JPG, JPEG, PNG, TIFF, NEF, CR2, RAW etc. are supported.
+It is a command line tool which can remove exif data from images.
+Currently, image types such as JPG, JPEG, PNG, TIFF, NEF, CR2, RAW etc. are supported.
 
 
 ## What is EXIF Data?
